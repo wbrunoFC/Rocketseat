@@ -75,6 +75,10 @@ body {
     width: 64px;
     margin: 4px auto;
 
+    button:hover {
+      outline: 8px solid var(--highlight-color);
+    }
+
     button {
       transition: all 0.1s ease-out;
       width: 32px;
