@@ -3,7 +3,7 @@
 ![App Screenshot](/Projeto_DevLinks/assets/DevLinks.png)
 ![App Screenshot](/Projeto_DevLinks/assets/desktop-devlinks-light.png)
 
-## 🚀 Sobre mim
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
