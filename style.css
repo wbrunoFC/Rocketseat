@@ -13,8 +13,8 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
   --right: 100%;
-  --transition: 0;
   --left: 0;
+  --transition: 0;
 }
 
 .light {
@@ -26,8 +26,8 @@
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/sun.svg);
   --right: 0;
-  --transition: -100%;
   --left: 100%;
+  --transition: -100%;
 }
 
 body * {
