@@ -1,7 +1,7 @@
 # Projeto 1 - DevLinks
 
-![App Screenshot](/Projeto_DevLinks/assets/DevLinks.png)
-![App Screenshot](/Projeto_DevLinks/assets/desktop-devlinks-light.png)
+![App Screenshot](./assets/DevLinks.png)
+![App Screenshot](./assets/desktop-devlinks-light.png)
 
 ## 🚀 Tecnologias
 
